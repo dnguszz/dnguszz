@@ -20,7 +20,7 @@
 <a href="https://www.instagram.com/dnguszz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 ![Woohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnguszz&show_icons=true&theme=radical)  
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={pinkfloyd951})](https://solved.ac/{pinkfloyd951})
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=pinkfloyd951)](https://solved.ac/pinkfloyd951)
 </div>
 
 
