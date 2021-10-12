@@ -2,7 +2,6 @@
 
 <div align="center">
 
-  <img src="https://pbs.twimg.com/media/De6zdcCUwAA5i3V.jpg"/>
   
 ### 👋 Frontend Enginner 👋  
 ### 🎣 Angler 🎣  
